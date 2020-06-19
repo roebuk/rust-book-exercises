@@ -1,0 +1,7 @@
+[package]
+name = "rustbook"
+version = "0.1.0"
+authors = ["Kristian Roebuck"]
+edition = "2018"
+
+[dependencies]
